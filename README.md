@@ -49,6 +49,11 @@ Already have BepInEx for Disco Elysium?
 
 ---
 
+## Nexus Mods
+ - https://www.nexusmods.com/discoelysium/mods/53
+
+---
+
 ## License / Credits
 
 - BepInEx: © BepInEx Team, distributed under **LGPL-2.1** (only in the “easy install” package)
