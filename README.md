@@ -13,13 +13,13 @@ This mod makes Disco Elysium use 32:9 resolutions (5120×1440, 3840×1080) inste
 
 ## Install (easy way – includes BepInEx)
 
-1. **Download** the “easy install” zip.
+1. **Download** **`DiscoElysium-32x9-v1.0.0-easy.zip`**.
 2. **Extract** it straight into your **Disco Elysium** game folder (same level as the game EXE).
    - After extracting you should have:
      - `Disco Elysium/BepInEx/...`
      - `Disco Elysium/winhttp.dll`
      - `Disco Elysium/doorstop_config.ini`
-3. **Run the game**.
+3. **Launch the game**.
 
 ---
 
@@ -27,7 +27,7 @@ This mod makes Disco Elysium use 32:9 resolutions (5120×1440, 3840×1080) inste
 
 Already have BepInEx for Disco Elysium?
 
-1. Download **`DiscoElysium32x9.dll`**.
+1. Download **`DiscoElysium-32x9-v1.0.0-plugin-only.zip`**.
 2. Drop it into: `Disco Elysium/BepInEx/plugins/`
 3. Start the game.
 
