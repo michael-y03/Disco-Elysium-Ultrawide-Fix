@@ -33,12 +33,14 @@ Already have BepInEx for Disco Elysium?
 
 ---
 
-## Notes
+## Notes / Compatibility
 
-- Tested on: intro, Whirling-in-Rags (inside), Martinaise exterior, dialogue.
-- Tested at: 5120×1440 and 3840×1080.
-- The “easy install” package contains an **unmodified** BepInEx 5 (Mono) build for convenience.
-- If you’re already running BepInEx, use the **plugin-only** download.
+- **Build support:** Mono-only. Developed and tested on the Mono build of Disco Elysium (e.g. GOG). IL2CPP / some “Final Cut” Steam builds are not supported yet – on those, the bundled BepInEx 5 (Mono) loader won’t start, so the plugin never runs.
+- **Test coverage:** Intro, Whirling-in-Rags (interior), Martinaise exterior, dialogue.
+- **Resolutions:** Verified at 5120×1440 and 3840×1080.
+- **Bundled loader:** The “easy install” package includes an **unmodified** BepInEx 5 (Mono) build for convenience.
+- **Already using BepInEx?** Use the **plugin-only** download instead.
+
 
 ---
 
