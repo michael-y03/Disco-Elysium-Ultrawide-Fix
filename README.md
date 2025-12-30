@@ -2,8 +2,8 @@
 
 This mod makes Disco Elysium use 32:9 resolutions (5120×1440, 3840×1080) instead of capping at 21:9.
 
-- ✅ Removes the forced black bars
-- ✅ Widens the global UI canvas to match your monitor
+- Removes the forced black bars
+- Widens the global UI canvas to match your monitor
 
 ![Dialogue on 32:9](screenshots/image1.png)
 ![Martinaise exterior 32:9](screenshots/image2.png)
@@ -16,10 +16,10 @@ This mod makes Disco Elysium use 32:9 resolutions (5120×1440, 3840×1080) inste
 Disco Elysium exists in **two runtime builds**. You must pick the matching download.
 
 **IL2CPP build**: your game folder contains `GameAssembly.dll`  
-➡️ Use the **IL2CPP** files.
+Use the **IL2CPP** files.
 
-**Mono build**: your game folder contains `Disco Elysium_Data/Managed/Assembly-CSharp.dll`  
-➡️ Use the **MONO** files.
+- **Mono build**: your game folder contains `Disco Elysium_Data/Managed/Assembly-CSharp.dll`  
+- Use the **MONO** files.
 
 ---
 
